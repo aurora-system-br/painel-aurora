@@ -1,0 +1,4 @@
+/* Sem CDN. A Inter era baixada do Google Fonts e quebrava o invariante
+   self-contained do Padrao 1. Titulo e Arial Black, texto e Calibri;
+   a pilha abaixo so cobre o que o shell nao declara. */
+html, body, * { font-family: 'Calibri', 'Segoe UI', system-ui, -apple-system, Roboto, sans-serif; }

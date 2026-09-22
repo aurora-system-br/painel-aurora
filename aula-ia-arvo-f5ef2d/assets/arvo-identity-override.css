@@ -1,0 +1,46 @@
+/* ═══════════════════════════════════════════════════════════════════
+   arvo-identity-override.css — troca de identidade Dois A -> Arvo Engenharia
+   Carregado APOS doisa-theme.css. So redefine tokens (:root) e fonte;
+   nunca edita o tema compartilhado, nunca toca estrutura/layout.
+   Fundo dos slides de conteudo (branco) preservado por desenho — so os
+   tons de marca (laranja/navy) trocam para o par Arvo (dourado/#080B12).
+   ─────────────────────────────────────────────────────────────────── */
+
+@font-face {
+  font-family: 'Inter';
+  src: url('fonts/inter-400.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('fonts/inter-600.woff2') format('woff2');
+  font-weight: 600;
+  font-display: swap;
+}
+
+:root {
+  /* Dourado Arvo no lugar do laranja Dois A */
+  --primary:        #C9A84C;
+  --primary-soft:   rgba(201,168,76,0.10);
+  --primary-glow:   rgba(201,168,76,0.16);
+  --primary-bar:    #C9A84C;
+  --primary-extra:  #D9BC72;
+
+  /* Navy Dois A -> escala escura Arvo (#080B12 / #232E3C) */
+  --brand-blue:        #2E3B4E;
+  --brand-blue-deep:   #080B12;
+  --brand-blue-mid:    #232E3C;
+  --brand-blue-soft:   rgba(35,46,60,0.06);
+  --brand-blue-ghost:  rgba(35,46,60,0.18);
+
+  --target: #C9A84C;
+}
+
+/* Fonte da casa Arvo (Inter) no lugar de Arial Black / Calibri.
+   Exclui as classes que mostram mockup de terminal/planilha/Excel —
+   essas continuam monoespacadas de proposito. */
+html, body,
+*:not(.nbmockup__url):not(.xls__formula-input):not(.aula-quote):not(.vsrc) {
+  font-family: 'Inter', 'Segoe UI', system-ui, sans-serif !important;
+}
