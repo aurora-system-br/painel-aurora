@@ -1,0 +1,674 @@
+WEBVTT
+
+1
+00:00:08.410 --> 00:00:11.416
+Este é o painel de viabilidade da Aurora.
+
+2
+00:00:11.476 --> 00:00:14.967
+Ele responde três perguntas sobre um empreendimento:
+
+3
+00:00:14.947 --> 00:00:18.816
+se dá lucro, com que preço e quanto dinheiro a obra vai pedir
+
+4
+00:00:18.796 --> 00:00:20.112
+antes de devolver.
+
+5
+00:00:20.482 --> 00:00:23.757
+O exemplo deste vídeo é o Ponta Negra 01,
+
+6
+00:00:23.737 --> 00:00:26.433
+casa A, com 59 casas numa fase só.
+
+7
+00:00:26.493 --> 00:00:30.162
+Tudo o que você mudar na tela é recalculado na hora pelo
+
+8
+00:00:30.142 --> 00:00:33.841
+mesmo motor de cálculo, e o resultado aparece no topo.
+
+9
+00:00:38.111 --> 00:00:40.872
+O quadro escuro do alto é o resultado.
+
+10
+00:00:40.932 --> 00:00:46.344
+O lucro do empreendimento está em R$ 0,44 milhão,
+
+11
+00:00:46.324 --> 00:00:52.414
+que dá 0,8% sobre o VGV bruto e 1,0% sobre o VGV líquido.
+
+12
+00:00:52.784 --> 00:00:59.210
+O VGV bruto, de R$ 52,46 milhões, é o valor de todas as casas
+
+13
+00:00:59.190 --> 00:01:01.156
+a preço de venda.
+
+14
+00:01:01.216 --> 00:01:05.022
+O VGV líquido, de R$ 44,46 milhões,
+
+15
+00:01:05.002 --> 00:01:10.164
+tira as casas dadas ao dono do terreno na permuta.
+
+16
+00:01:10.534 --> 00:01:13.872
+O custo total, de R$ 52,02 milhões,
+
+17
+00:01:13.852 --> 00:01:17.539
+soma obra, terreno, despesas, comissão,
+
+18
+00:01:17.519 --> 00:01:19.183
+impostos e juros.
+
+19
+00:01:19.243 --> 00:01:22.670
+O lucro é o VGV bruto menos o custo total.
+
+20
+00:01:23.040 --> 00:01:27.227
+Quando você desce a página, uma faixa preta acompanha a rolagem
+
+21
+00:01:27.207 --> 00:01:29.041
+com esses mesmos números.
+
+22
+00:01:29.101 --> 00:01:33.179
+Assim, cada mudança feita lá embaixo mostra o efeito no lucro
+
+23
+00:01:33.159 --> 00:01:35.202
+sem precisar voltar ao topo.
+
+24
+00:01:39.472 --> 00:01:42.702
+Na barra da esquerda ficam os cenários rápidos.
+
+25
+00:01:42.762 --> 00:01:47.444
+Cada botão aplica uma combinação pronta de preço e custo de obra.
+
+26
+00:01:47.814 --> 00:01:56.912
+Com Preço mais 5%, o lucro sobe de R$ 0,44 milhão para R$ 2,59 milhões.
+
+27
+00:01:56.972 --> 00:02:00.343
+O VGV bruto vai a R$ 55,09 milhões,
+
+28
+00:02:00.323 --> 00:02:03.871
+e o custo total também sobe um pouco,
+
+29
+00:02:03.851 --> 00:02:08.810
+para R$ 52,50 milhões, porque comissão e as despesas que
+
+30
+00:02:08.790 --> 00:02:12.762
+são percentual da venda acompanham o preço.
+
+31
+00:02:13.132 --> 00:02:19.955
+Com Obra mais 8%, o lucro vira um prejuízo de R$ 3,26 milhões.
+
+32
+00:02:20.015 --> 00:02:24.815
+Uma diferença de 8% na obra pesa mais do que 5% no preço,
+
+33
+00:02:24.795 --> 00:02:27.922
+e esse é o primeiro recado do painel.
+
+34
+00:02:27.982 --> 00:02:32.180
+O botão Cenário de partida devolve tudo aos valores do estudo.
+
+35
+00:02:36.450 --> 00:02:39.028
+Logo abaixo do resultado vem a meta:
+
+36
+00:02:39.008 --> 00:02:40.959
+que preço preciso praticar?
+
+37
+00:02:41.019 --> 00:02:44.951
+O painel calcula o preço médio por metro quadrado que fecha
+
+38
+00:02:44.931 --> 00:02:49.156
+o resultado pedido, mantendo a proporção entre as tipologias.
+
+39
+00:02:49.526 --> 00:02:52.867
+À esquerda, o preço que zera o lucro:
+
+40
+00:02:52.847 --> 00:02:55.352
+R$ 7.190 por metro quadrado.
+
+41
+00:02:55.412 --> 00:03:02.943
+O preço atual é de R$ 7.255, só 0,9% acima do equilíbrio.
+
+42
+00:03:03.003 --> 00:03:08.129
+Abaixo de R$ 7.190, o empreendimento dá prejuízo.
+
+43
+00:03:08.499 --> 00:03:11.512
+À direita, você escreve a margem que quer.
+
+44
+00:03:11.572 --> 00:03:18.001
+Com 15% sobre o VGV bruto, o preço médio precisa ser R$ 8.810
+
+45
+00:03:17.981 --> 00:03:23.834
+por metro quadrado, e o lucro chega a R$ 9,56 milhões.
+
+46
+00:03:23.894 --> 00:03:27.571
+O botão Aplicar este preço leva esse valor para a tabela
+
+47
+00:03:27.551 --> 00:03:30.866
+de preços, e o painel inteiro é refeito com ele.
+
+48
+00:03:35.136 --> 00:03:38.826
+Em Premissas de cada fase ficam as datas e os valores de
+
+49
+00:03:38.806 --> 00:03:42.561
+base: início e duração da obra, lançamento das vendas,
+
+50
+00:03:42.541 --> 00:03:46.363
+janela de venda, tabela de venda, preço por metro quadrado
+
+51
+00:03:46.343 --> 00:03:48.816
+e custo de obra por metro quadrado.
+
+52
+00:03:49.186 --> 00:03:53.062
+Embaixo de cada campo, o painel mostra o valor do estudo.
+
+53
+00:03:53.122 --> 00:03:56.644
+Você pode mudar à vontade e comparar com a origem,
+
+54
+00:03:56.624 --> 00:04:00.769
+e o botão Voltar esta fase ao estudo desfaz tudo de uma vez.
+
+55
+00:04:01.139 --> 00:04:05.340
+Na barra lateral, o prazo de obra e o desenho da curva de obra.
+
+56
+00:04:05.400 --> 00:04:08.795
+A curva diz quanto da obra é gasto em cada mês.
+
+57
+00:04:08.855 --> 00:04:12.829
+Um gasto concentrado no começo pede dinheiro mais cedo e
+
+58
+00:04:12.809 --> 00:04:14.401
+aumenta a exposição.
+
+59
+00:04:18.671 --> 00:04:22.364
+Em Preço de venda, cada tipologia tem o seu cartão.
+
+60
+00:04:22.424 --> 00:04:28.618
+A casa A está a R$ 7.255 por metro quadrado,
+
+61
+00:04:28.598 --> 00:04:34.295
+com 59 unidades e VGV de R$ 52,46 milhões.
+
+62
+00:04:34.355 --> 00:04:37.911
+Os botões de mais e menos e a régua mudam o preço,
+
+63
+00:04:37.891 --> 00:04:41.006
+e Ver as unidades abre o valor de cada casa.
+
+64
+00:04:41.376 --> 00:04:44.371
+Quando o preço sobe, o VGV sobe junto.
+
+65
+00:04:44.431 --> 00:04:46.968
+Mas parte do ganho volta como custo:
+
+66
+00:04:46.948 --> 00:04:50.066
+a comissão de vendas é percentual da receita,
+
+67
+00:04:50.046 --> 00:04:54.808
+e as casas da permuta valem mais, porque são contadas a preço de venda.
+
+68
+00:04:54.868 --> 00:04:59.658
+Por outro lado, cada parcela do comprador fica maior,
+
+69
+00:04:59.638 --> 00:05:04.768
+entra mais dinheiro durante a obra e o caixa sofre menos:
+
+70
+00:05:04.748 --> 00:05:10.134
+com o preço 5% maior, a exposição máxima cai de R$ 7,21 milhões
+
+71
+00:05:10.114 --> 00:05:12.082
+para R$ 6,92 milhões.
+
+72
+00:05:16.352 --> 00:05:20.479
+Em Custo de obra, o valor é por metro quadrado equivalente.
+
+73
+00:05:20.539 --> 00:05:27.419
+São R$ 3.450 vezes 7.051 metros quadrados equivalentes,
+
+74
+00:05:27.399 --> 00:05:32.666
+o que dá um custo raso de R$ 24,33 milhões.
+
+75
+00:05:33.036 --> 00:05:35.798
+Sobre o custo raso entram três taxas,
+
+76
+00:05:35.778 --> 00:05:37.056
+todas editáveis.
+
+77
+00:05:37.116 --> 00:05:41.029
+Incerteza, de 5%, para custos eventuais.
+
+78
+00:05:41.089 --> 00:05:46.048
+Administração da obra, de 15% sobre o raso mais a incerteza.
+
+79
+00:05:46.108 --> 00:05:51.365
+E pós-entrega, de 1,5%, para a manutenção depois das chaves.
+
+80
+00:05:51.425 --> 00:05:56.899
+Com elas, a obra vai a R$ 29,74 milhões.
+
+81
+00:05:57.269 --> 00:06:00.365
+Quando a obra encarece, o efeito não para no custo.
+
+82
+00:06:00.424 --> 00:06:04.462
+A parte financiada cresce, os juros crescem com ela e o caixa
+
+83
+00:06:04.442 --> 00:06:06.532
+fica negativo por mais tempo.
+
+84
+00:06:06.592 --> 00:06:13.176
+No cenário de obra 8% mais cara, a exposição máxima sai de
+
+85
+00:06:13.156 --> 00:06:17.524
+R$ 7,21 milhões para R$ 8,25 milhões.
+
+86
+00:06:21.794 --> 00:06:26.219
+Em Financiamento e juros ficam as regras do crédito à produção.
+
+87
+00:06:26.279 --> 00:06:31.963
+A taxa é de 17% ao ano, e 80% da obra é financiada.
+
+88
+00:06:32.333 --> 00:06:39.383
+O banco só libera depois de 20% da obra feita e 30% das unidades vendidas.
+
+89
+00:06:39.443 --> 00:06:43.603
+Ao lado, um seletor decide se os dois critérios valem juntos
+
+90
+00:06:43.583 --> 00:06:45.212
+ou se basta um deles.
+
+91
+00:06:45.272 --> 00:06:48.574
+Uma parte fica retida até a última liberação,
+
+92
+00:06:48.554 --> 00:06:53.111
+e a amortização começa cinco meses depois da entrega das chaves.
+
+93
+00:06:53.481 --> 00:07:00.530
+Nesse estudo, os juros do financiamento de obra somam R$ 4,95 milhões.
+
+94
+00:07:00.590 --> 00:07:03.070
+Taxa mais alta aumenta essa conta,
+
+95
+00:07:03.050 --> 00:07:06.860
+e venda lenta atrasa a liberação, porque o banco espera a
+
+96
+00:07:06.840 --> 00:07:08.749
+meta de unidades vendidas.
+
+97
+00:07:13.019 --> 00:07:16.290
+O cronograma mostra as datas lado a lado.
+
+98
+00:07:16.350 --> 00:07:22.077
+As vendas começam em março de 2027 e duram 42 meses.
+
+99
+00:07:22.137 --> 00:07:25.696
+A obra começa em setembro de 2027,
+
+100
+00:07:25.676 --> 00:07:30.639
+dura 24 meses, e as chaves saem em agosto de 2029.
+
+101
+00:07:31.009 --> 00:07:33.706
+Mexer nessas datas muda o caixa.
+
+102
+00:07:33.766 --> 00:07:37.938
+Obra que começa antes das vendas é paga com dinheiro próprio,
+
+103
+00:07:37.918 --> 00:07:41.861
+e esse dinheiro parado pesa nos juros e no valor presente.
+
+104
+00:07:46.131 --> 00:07:49.824
+A tabela de parcelas diz como o comprador paga a casa.
+
+105
+00:07:49.884 --> 00:07:55.785
+No estudo, são 10% de sinal, 20% em 24 mensais durante a
+
+106
+00:07:55.765 --> 00:07:58.256
+obra e 70% nas chaves.
+
+107
+00:07:58.316 --> 00:08:02.272
+Ou seja, 30% do preço entram até a entrega.
+
+108
+00:08:02.642 --> 00:08:05.860
+O seletor de moldes troca a tabela inteira.
+
+109
+00:08:05.920 --> 00:08:09.528
+Há moldes padrão, de 30 a 40% até as chaves,
+
+110
+00:08:09.508 --> 00:08:13.802
+e moldes de mercado, copiados das tabelas de lançamentos
+
+111
+00:08:13.782 --> 00:08:15.184
+reais da cidade.
+
+112
+00:08:15.554 --> 00:08:19.231
+O valor da casa é o mesmo, mas o momento em que o dinheiro
+
+113
+00:08:19.211 --> 00:08:20.400
+entra muda tudo.
+
+114
+00:08:20.460 --> 00:08:27.245
+Com 40% até as chaves, o lucro sobe de R$ 0,44 milhão para
+
+115
+00:08:27.225 --> 00:08:33.894
+R$ 1,11 milhão, e a exposição cai de R$ 7,21 milhões para
+
+116
+00:08:33.874 --> 00:08:35.920
+R$ 6,42 milhões.
+
+117
+00:08:35.980 --> 00:08:40.618
+Com 30%, o lucro cai para R$ 0,28 milhão.
+
+118
+00:08:44.888 --> 00:08:48.920
+A tabela de sensibilidade cruza preço e custo de obra.
+
+119
+00:08:48.980 --> 00:08:51.427
+Cada coluna é uma variação de preço,
+
+120
+00:08:51.407 --> 00:08:55.259
+cada linha uma variação de obra, e a célula mostra o lucro.
+
+121
+00:08:55.629 --> 00:08:58.821
+A célula marcada é o cenário atual,
+
+122
+00:08:58.801 --> 00:09:00.566
+com R$ 0,44 milhão.
+
+123
+00:09:00.626 --> 00:09:07.075
+Preço 5% maior com a obra igual dá R$ 2,59 milhões.
+
+124
+00:09:07.135 --> 00:09:14.243
+Obra 10% mais cara com o preço igual dá prejuízo de R$ 4,19 milhões.
+
+125
+00:09:14.303 --> 00:09:17.421
+Clique numa célula para aplicar a combinação.
+
+126
+00:09:17.791 --> 00:09:22.068
+Ao lado, o gráfico Para onde vai o VGV divide cada real vendido
+
+127
+00:09:22.048 --> 00:09:25.514
+entre construção, terreno, despesas financeiras,
+
+128
+00:09:25.494 --> 00:09:27.295
+demais rubricas e lucro.
+
+129
+00:09:31.565 --> 00:09:35.670
+Em Velocidade de venda você diz em que ritmo as casas são
+
+130
+00:09:35.650 --> 00:09:37.335
+vendidas, por faixas.
+
+131
+00:09:37.395 --> 00:09:42.169
+No estudo, 30% vendem nos primeiros 6 meses,
+
+132
+00:09:42.149 --> 00:09:49.308
+58% ao longo de 24 meses de obra e 12% em 12 meses depois das chaves.
+
+133
+00:09:49.678 --> 00:09:52.623
+Venda mais rápida antecipa o dinheiro.
+
+134
+00:09:52.683 --> 00:09:56.787
+Se metade das casas vende no lançamento,
+
+135
+00:09:56.767 --> 00:10:03.786
+o lucro sobe para R$ 0,76 milhão e a exposição cai para R$ 6,93 milhões.
+
+136
+00:10:03.846 --> 00:10:10.007
+Se só 15% vendem no início, o lucro cai para R$ 0,19 milhão
+
+137
+00:10:09.987 --> 00:10:14.330
+e a exposição sobe para R$ 7,42 milhões.
+
+138
+00:10:14.700 --> 00:10:17.589
+O VGV não muda em nenhum dos casos.
+
+139
+00:10:17.649 --> 00:10:21.506
+O que muda é quanto tempo o empreendimento fica no vermelho
+
+140
+00:10:21.486 --> 00:10:23.747
+e quanto paga de juros por isso.
+
+141
+00:10:28.017 --> 00:10:30.949
+Dinheiro no tempo é o caixa mês a mês.
+
+142
+00:10:31.009 --> 00:10:33.369
+As colunas para cima são o que entra,
+
+143
+00:10:33.349 --> 00:10:37.215
+as para baixo, o que sai, e a linha grossa é o saldo acumulado.
+
+144
+00:10:37.585 --> 00:10:42.718
+Os cartões resumem o gráfico: a necessidade máxima de caixa
+
+145
+00:10:42.698 --> 00:10:46.531
+é de R$ 7,21 milhões, em janeiro de 2030,
+
+146
+00:10:46.511 --> 00:10:51.024
+e o saldo volta a ficar positivo em julho de 2030.
+
+147
+00:10:51.084 --> 00:10:55.162
+Os botões de entradas e saídas ligam e desligam cada grupo,
+
+148
+00:10:55.142 --> 00:10:58.005
+para ver de onde vem cada parte da curva.
+
+149
+00:11:02.275 --> 00:11:05.860
+Em Despesas, cada linha é um percentual do VGV bruto,
+
+150
+00:11:05.840 --> 00:11:10.349
+e o valor em reais se ajusta sozinho quando o preço ou a obra mudam.
+
+151
+00:11:10.409 --> 00:11:14.349
+Você pode editar o percentual de qualquer linha e restaurar
+
+152
+00:11:14.329 --> 00:11:16.767
+o valor da planilha quando quiser.
+
+153
+00:11:17.137 --> 00:11:20.472
+No fim da página ficam os indicadores do motor:
+
+154
+00:11:20.452 --> 00:11:23.853
+lucro depois dos juros, taxa interna de retorno,
+
+155
+00:11:23.833 --> 00:11:26.902
+valor presente, exposição máxima e payback,
+
+156
+00:11:26.882 --> 00:11:30.907
+com a DRE completa em valores nominais e a valor presente.
+
+157
+00:11:31.277 --> 00:11:35.143
+Os botões Ver DRE e Ver cash flow abrem os relatórios no
+
+158
+00:11:35.123 --> 00:11:37.754
+formato da planilha de viabilidade,
+
+159
+00:11:37.734 --> 00:11:41.142
+e a planilha pode ser baixada para conferência.
+
+160
+00:11:45.412 --> 00:11:48.894
+Quando um cenário fizer sentido, use Salvar versão.
+
+161
+00:11:48.954 --> 00:11:51.939
+Ele guarda tudo o que você mudou com um nome,
+
+162
+00:11:51.919 --> 00:11:55.064
+e Versões salvas abre de novo qualquer um deles.
+
+163
+00:11:55.124 --> 00:11:58.713
+O botão do canto troca entre o tema claro e o escuro.
+
+164
+00:11:59.083 --> 00:12:02.529
+O jeito de usar é sempre o mesmo: mude uma premissa,
+
+165
+00:12:02.509 --> 00:12:04.959
+olhe o lucro, a exposição e o caixa,
+
+166
+00:12:04.939 --> 00:12:06.801
+e guarde a versão que vale.
+
+167
+00:12:06.861 --> 00:12:09.595
+Cada número da tela sai do mesmo motor,
+
+168
+00:12:09.575 --> 00:12:13.437
+então a resposta é sempre coerente com o resto do estudo.
+
